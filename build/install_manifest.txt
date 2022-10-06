@@ -1,0 +1,13 @@
+/home/runnerking/catkin_ws/install/_setup_util.py
+/home/runnerking/catkin_ws/install/env.sh
+/home/runnerking/catkin_ws/install/setup.bash
+/home/runnerking/catkin_ws/install/local_setup.bash
+/home/runnerking/catkin_ws/install/setup.sh
+/home/runnerking/catkin_ws/install/local_setup.sh
+/home/runnerking/catkin_ws/install/setup.zsh
+/home/runnerking/catkin_ws/install/local_setup.zsh
+/home/runnerking/catkin_ws/install/.rosinstall
+/home/runnerking/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/runnerking/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/runnerking/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/runnerking/catkin_ws/install/share/beginner_tutorials/package.xml
